@@ -14,7 +14,7 @@ Kullanıcıdan bir sayı alınır ve **modül operatörü (%)** kullanılarak sa
 ---
 
 ## 🖼️ Ekran Görüntüsü
-*(İstersen buraya projenin ekran görüntüsünü ekleyebilirsin)*  
+<img width="20" height="5" alt="image" src="https://github.com/user-attachments/assets/9288a50f-3f11-4974-a8db-cd8f082d7fb9" />
 
 ```bash
 📂 Proje Yapısı
